@@ -2,6 +2,7 @@
   "Rules":[
     {
       "ID":"Transition objects to Glacier storage in 30 days and delete all objects in 180 days",
+      "Prefix": "logs/2025/05/ and logs/2025/10/",
       "Status":"Enabled",
       "Transition": {
         "Days": 30,
