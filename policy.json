@@ -9,7 +9,7 @@
         "s3:GetObject"
       ],
       "Resource": [
-        "arn:aws:s3:::toche-portfolio-ami-0e449927258d45bc4/*"
+        "arn:aws:s3:::toche-portfolio-ami-0e449927258d45bc46/*"
       ]
     }
   ]
